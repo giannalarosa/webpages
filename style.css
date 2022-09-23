@@ -1,0 +1,19 @@
+/*
+ *Name: [Gianna LaRosa]
+ *UnityID: [glarosa]
+ *Date: [9/23/22]
+ *Assignment: [Website Design and Styling Independent Assignmen]
+ *Description: [Website about Me for Independent Assignment]
+ */
+ 
+style {
+    background-color: #0000ff;
+}
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+
+#photo-resize {
+    max-width: 200px;
+	max-height: 250px;
+}
