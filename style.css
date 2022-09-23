@@ -6,11 +6,11 @@
  *Description: [Website about Me for Independent Assignment]
  */
  
-style {
-    background-color: #0000ff;
+body {
+    background-color: #FFFF00;
 }
 .table-border {
-    border: 1px solid #FFFFFF;
+    border: 200px solid #00FF00;
 }
 
 #photo-resize {
